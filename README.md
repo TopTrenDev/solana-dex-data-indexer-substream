@@ -34,4 +34,4 @@ substreams run -e mainnet.sol.streamingfast.io:443 substreams.yaml map_block -s 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@toptrendev-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://x.com/toptrendev)
 [![Discord](https://img.shields.io/badge/Discord-toptrendev-black?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/648385188774019072)
-[![Telegram](https://img.shields.io/badge/Telegram-@toptrendev_641-black?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/toptrendev_641)
+[![Telegram](https://img.shields.io/badge/Telegram-@TopTrenDev_66-black?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/TopTrenDev_66)
