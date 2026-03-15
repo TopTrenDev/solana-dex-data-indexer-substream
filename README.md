@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Substreams-StreamingFast-0EA5E9?style=for-the-badge" alt="Substreams" />
 </p>
 
-# ⚡ Solana DEX Data Indexer
+# ⚡ Solana DEX Data Indexer (Substream)
 
 > High-performance Solana DEX transaction indexer built with **Substreams**. Stream and parse swap transactions across multiple DEX protocols in real time—for analytics, MEV research, trading bots, and on-chain data pipelines.
 
