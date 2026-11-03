@@ -181,7 +181,7 @@ substreams registry publish
 ## 🔗 Connect
 
 [![Twitter](https://img.shields.io/badge/Twitter/X-@toptrendev-000000?style=for-the-badge&logo=x&logoColor=white)]([https://x.com/toptrendev](https://x.com/intent/follow?screen_name=toptrendev))
-[![Telegram](https://img.shields.io/badge/Telegram-@TopTrenDev_66-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TopTrenDev_66)
+[![Telegram](https://img.shields.io/badge/Telegram-@MarekNox-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MarekNox)
 
 ---
 
